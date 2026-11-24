@@ -31,3 +31,15 @@ cd server
 npm ci
 cd ..\client
 npm ci
+```
+
+###Start the system
+Open two terminals in the repository folder.
+
+In the first terminal, start the backend:
+cd server
+npm run dev
+
+In the second terminal, start the frontend:
+cd client
+npm run dev
