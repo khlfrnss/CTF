@@ -37,9 +37,12 @@ npm ci
 Open two terminals in the repository folder.
 
 In the first terminal, start the backend:
+```powershell
 cd server
 npm run dev
-
+```
 In the second terminal, start the frontend:
+```powershell
 cd client
 npm run dev
+```
