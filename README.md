@@ -33,7 +33,7 @@ cd ..\client
 npm ci
 ```
 
-###Start the system
+### Start the system
 Open two terminals in the repository folder.
 
 In the first terminal, start the backend:
